@@ -1,0 +1,15 @@
+body {
+	margin: 3em;
+}
+
+#log {
+	margin-top: 1em;
+}
+
+#log ul {
+	margin: 0;
+}
+
+#log li {
+    margin-top: 6px;
+}
